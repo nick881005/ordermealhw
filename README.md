@@ -1,4 +1,4 @@
-# ordermealhw
+# OrderMealHW
 
 入口網站：http://localhost:8080/h2-console
 
